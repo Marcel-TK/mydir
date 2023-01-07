@@ -37,3 +37,4 @@ curl -s "https://www.ebi.ac.uk/ena/data/warehouse/filereport?accession=${study_a
 done
 
 wait
+#THIS FILES ONLY GENERATES TEXT FILES WHICH IS SURPRISING TO ME. i THOUGH IT WOULD GENERATE FASTQ FILES
